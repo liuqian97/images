@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1567993950241'); /* IE9 */
+  src: url('iconfont.eot?t=1567993950241#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAOoAAsAAAAAB2wAAANaAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqCVIJRATYCJAMMCwgABCAFhG0HOBuZBsiuMTaGVk9IQ82etQRBEJLXn7n0nz9MjEIjqMbKnt19AlCYOC4fBQAuEsgRChUWGmXcq6AwrKPvf23qDxDLQeLLWTrLZllhfjsXGDbEqR22Tu3EsAEHhJEGwsGke8ARfybVECWTGxwt22brQpu+rvxg37ngFJ4Dv8DJswn8x73TJviaz2q7zLH8UxdgHFBAe2MUZQGXSCDeMHZBS7xNoN6wWCbby2tbwVphLgrEeSoJYJ1xKA3toVaorthZxAOwUJtumg73g+/HP0thTVKVmSt3nCyTQ+FP/ZWb5/6r10OBcjof2D4yFoFCHKwM7GYWFRaZqVcN5s311YqQpkpXTqDQTNUb/eMloprZ2ghmoT5dlNLhEvwih2RkZ7XHKJ0DnkF85+gs9TW6DHlPbrZ9OpsQrR+XUO2fQciOL6/znKxSFr/mK/bUb5ztNts6d/sNaHh65trri9c/t6/j8+fJsK1uyG+/VNz+lPXl04ZPL4Ku3d59PHWjeoox3J835q2IU1/sppc6IyOCfkQVAaUBlPq70fL9gApfmNJS/4qA/fIAG6Xlvor9gERWIcPVdQUPzP/iaksJ79VMBrWB1bpJmgKdtx5wcfznZQMySD565PKN2fb0RZW/AE0dL2VLc8lRwXLZ45jd3q9aNsxFXU4KN/VOP3n3aAwUdlUk9hboD4t+zU+me3exU9TRjoxDZN5HhEGAyqxaA6iUFfzCBMHG9V+jJfd/rQJ+9K4fxCsVdHepPf9g8D+UHbuKZoaNRVE4CiOUrd2bLwFl3OgvdEK7b8NNXZ1bCbW6EkhqDEFWaxJd8ItQpcEKVKu1CeotqNjfoANjJkod5i0DCK0uQdLsI2StXqEL/itU6fYdqrWGGdTbGW4nNpgOalvCsMCxHA2NIyrqtMR2c9uwvRlLw2qBpdUBox0zI02jpPjEfLkCazGbYo1xRErmnCDCdBpUDu7DarUO6ZlOiUUer+Bcn52QQKqeFC/qNGBrGwYTcJgcMmQcQol0tIjXn7MtfL4ZJhmmJmANiKpkO4wxosMjSeIldkBXGLSdELfyiNEISTKOIxCC0dFAyoEPU1sFHURfPU0JE3HxFANyetkSUC/S1RC/vEnzfgegnnlpjhQ5ipoLCqqkgtacqAUJAAAA') format('woff2'),
+  url('iconfont.woff?t=1567993950241') format('woff'),
+  url('iconfont.ttf?t=1567993950241') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1567993950241#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-shijian:before {
+  content: "\e638";
+}
+
+.icon-flag:before {
+  content: "\e73c";
+}
+
